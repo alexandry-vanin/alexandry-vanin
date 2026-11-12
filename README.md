@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome]
 
-<!--
-**alexandry-vanin/alexandry-vanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou [Seu Cargo] na [Sua Empresa] e estudante de [Seu Curso] na [Sua Faculdade].
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Atuo com [suas áreas de atuação].
+* Tenho interesse em [seus interesses].
+* Estou estudando [tecnologias que está aprendendo].
+* Busco desenvolver meus conhecimentos por meio de projetos acadêmicos e experiências profissionais.
+
+## Tecnologias e conhecimentos
+
+* [Tecnologia ou habilidade 1]
+* [Tecnologia ou habilidade 2]
+* [Tecnologia ou habilidade 3]
+* [Tecnologia 4] - em aprendizado
+* [Tecnologia 5] - em aprendizado
+
+## Formação acadêmica
+
+* **[Nome do Curso]** - [Nome da Instituição] *(Em andamento / Concluído)*
