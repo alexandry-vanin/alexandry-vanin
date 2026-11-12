@@ -38,4 +38,4 @@ Busco oportunidades para desenvolver minhas habilidades, adquirir experiência e
 
 ## Contato
 
-* **LinkedIn:** [Alexandry Vanin](https://www.linkedin.com/in/seu-usuario)
+* **LinkedIn:** [Alexandry Vanin](www.linkedin.com/in/alexandry-vanin-a0911a431)
