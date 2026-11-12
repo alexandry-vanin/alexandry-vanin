@@ -1,22 +1,41 @@
-# Olá, eu sou [Seu Nome]
+# Olá, eu sou Alexandry Vanin! 👋
 
-Sou [Seu Cargo] na [Sua Empresa] e estudante de [Seu Curso] na [Sua Faculdade].
+Sou estudante de Sistemas de Informação e estou em busca de desenvolvimento profissional na área de tecnologia, ampliando meus conhecimentos por meio dos estudos e das experiências práticas.
 
 ## Sobre mim
 
-* Atuo com [suas áreas de atuação].
-* Tenho interesse em [seus interesses].
-* Estou estudando [tecnologias que está aprendendo].
-* Busco desenvolver meus conhecimentos por meio de projetos acadêmicos e experiências profissionais.
+* Sou estudante de Sistemas de Informação na Universidade Paulista (UNIP).
+* Tenho formação complementar na área de eletrônica pelo SENAI.
+* Tenho interesse em tecnologia, programação, desenvolvimento de sistemas e inovação.
+* Busco aprimorar minhas habilidades técnicas e desenvolver novos conhecimentos.
+* Estou em constante aprendizado, procurando oportunidades para crescer profissionalmente na área de TI.
 
 ## Tecnologias e conhecimentos
 
-* [Tecnologia ou habilidade 1]
-* [Tecnologia ou habilidade 2]
-* [Tecnologia ou habilidade 3]
-* [Tecnologia 4] - em aprendizado
-* [Tecnologia 5] - em aprendizado
+* Eletrônica
+* Eletrônica Analógica
+* Fundamentos de Eletrônica
+* Conhecimentos adquiridos na formação em Auxiliar em Eletrônica
 
 ## Formação acadêmica
 
-* **[Nome do Curso]** - [Nome da Instituição] *(Em andamento / Concluído)*
+* **Graduação:** Sistemas de Informação — Universidade Paulista (UNIP) *(Em andamento)*
+* **Ensino Médio:** Colégio Guarani — Mogi das Cruzes/SP
+
+## Cursos e qualificações
+
+**SENAI**
+* Auxiliar em Eletrônica
+* Eletrônica Analógica
+
+## Projetos
+
+Este perfil será atualizado progressivamente com projetos acadêmicos e pessoais desenvolvidos durante minha jornada na faculdade, colocando em prática os conhecimentos adquiridos em Sistemas de Informação.
+
+## Objetivos profissionais
+
+Busco oportunidades para desenvolver minhas habilidades, adquirir experiência e construir uma carreira sólida na área de tecnologia da informação.
+
+## Contato
+
+* **LinkedIn:** [Alexandry Vanin](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
