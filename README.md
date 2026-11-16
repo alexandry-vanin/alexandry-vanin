@@ -28,13 +28,14 @@ Sou estudante de Sistemas de Informação e estou em busca de desenvolvimento pr
 * Auxiliar em Eletrônica
 * Eletrônica Analógica
 
-## Projetos
+##  Projetos
 
 Este perfil será atualizado progressivamente com projetos acadêmicos e pessoais desenvolvidos durante minha jornada na faculdade, colocando em prática os conhecimentos adquiridos em Sistemas de Informação.
 
-## Objetivos profissionais
+##  Objetivo
 
-Busco oportunidades para desenvolver minhas habilidades, adquirir experiência e construir uma carreira sólida na área de tecnologia da informação.
+Construir uma carreira sólida na área de Tecnologia da Informação, desenvolvendo habilidades práticas e adquirindo experiência profissional.
+
 
 ## Contato
 
